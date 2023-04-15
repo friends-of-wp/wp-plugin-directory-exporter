@@ -1,0 +1,12 @@
+{
+    "name": "friends-of-wp/pluginretriever",
+    "description": "Small and flexible library to retrieve all plugins from the WordPress plugin directory.",
+    "autoload": {
+        "psr-4": {
+            "Fowp\\WordPressPluginRetriever\\": "src"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    }
+}
