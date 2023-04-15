@@ -14,7 +14,7 @@ composer require friends-of-wp/pluginretriever
 
 We prepared some examples in the `/example` directory that are easy to understand and can be reused.
 
-## CSV 
+## CSV
 
 Exports the plugins into a CSV file. Warning: currently there are more than 55.000 plugins in the directory. Excel and Google Spreadsheet are not able to process such file sizes.
 
