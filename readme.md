@@ -21,4 +21,9 @@ Exports the plugins into a CSV file. Warning: currently there are more than 55.0
 ````shell
 php example/retrieve-as-csv.php plugins.csv
 ````
-Info: at the moment the retrievers are configured to only fetch two pages. if you want to change that just change the parameter in the retriever constructor.
+
+Info: at the moment the retrievers are configured to fetch all plugins . if you want to change that just change the parameter in the retriever constructor or add a second parameter to the command line script with the number of pages you want to retrieve. 
+
+````shell
+php example/retrieve-as-csv.php plugins.csv 10
+````
