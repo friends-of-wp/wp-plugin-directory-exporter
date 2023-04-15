@@ -4,10 +4,15 @@ This is a simple library that helps to retrieve the information of all plugins t
 
 ## Installation
 
+To install the Plugin Retriever you can use composer, clone the repository or just download the ZIP file.  
 
+```shell
+composer require friends-of-wp/pluginretriever
+```
 
 ## Examples
 
+We prepared some examples in the `/example` directory that are easy to understand and can be reused.
 
 ## CSV 
 
