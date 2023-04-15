@@ -1,5 +1,7 @@
 # Friends of WP - Plugin Retriever
 
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/friends-of-wp/wp-plugin-directory-exporter/badges/quality-score.png?b=develop)](https://scrutinizer-ci.com/g/friends-of-wp/wp-plugin-directory-exporter/?branch=develop)
+
 This is a simple library that helps to retrieve the information of all plugins that are located in the WordPress.org plugin directory.
 
 ## Installation
