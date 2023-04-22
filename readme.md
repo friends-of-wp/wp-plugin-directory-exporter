@@ -12,6 +12,13 @@ To install the Plugin Retriever you can use composer, clone the repository or ju
 composer require friends-of-wp/pluginretriever
 ```
 
+## Exporter
+
+- **CSV** - Export the plugins into a CSV file
+- **Array** - Export the data into a PHP array that can be used afterwards. Warning: this array can be quite big.
+- **Cli status** - Outputs the data to the CLI
+- **Symfony console output** - Outputs data to the CLI via the symfony `OutputInterface`.
+
 ## Examples
 
 We prepared some examples in the `/example` directory that are easy to understand and can be reused.
