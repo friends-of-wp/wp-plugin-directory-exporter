@@ -1,5 +1,5 @@
 {
-    "name": "friends-of-wp/pluginretriever",
+    "name": "friends-of-wp/wp-plugin-directory-exporter",
     "description": "Small and flexible library to retrieve all plugins from the WordPress plugin directory.",
     "autoload": {
         "psr-4": {
